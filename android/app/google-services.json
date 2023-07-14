@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "947336674231",
+    "project_id": "rnnotificationapp-c77bd",
+    "storage_bucket": "rnnotificationapp-c77bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947336674231:android:da7b7382d721980e96c632",
+        "android_client_info": {
+          "package_name": "com.notificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947336674231-r2n2n9vpdc77j189pf88694pughs4kvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXSy5dXiwF4W0ALM1XGEq4qlbKXz42tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947336674231-r2n2n9vpdc77j189pf88694pughs4kvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947336674231:android:40cc5448542e410c96c632",
+        "android_client_info": {
+          "package_name": "com.notificationappdomarco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947336674231-5fu5ckipvn1hvadnlm0eh769f37k64o2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.notificationappdomarco",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "947336674231-r2n2n9vpdc77j189pf88694pughs4kvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXSy5dXiwF4W0ALM1XGEq4qlbKXz42tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947336674231-r2n2n9vpdc77j189pf88694pughs4kvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
